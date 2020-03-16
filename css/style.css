@@ -1,0 +1,50 @@
+body {
+  box-sizing: border-box;
+  background-color: black;
+}
+
+h1{
+  font-family: 'Courier Prime', monospace;
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.1;
+  color:white;
+}
+
+table{
+  width: 100%;
+}
+
+tr{
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  margin-bottom: 2rem;
+  margin-top: .8rem;
+}
+
+td{
+  height: 8rem;
+  width: 8.5rem;
+  background-image: url('images/block.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 7px;
+  border: 3.5px solid black;
+  cursor: pointer;
+}
+
+img{
+  width: 10rem;
+}
+
+button{
+  float: right;
+  margin-right: 10rem;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+button>img{
+      margin: -2rem;
+}
