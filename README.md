@@ -1,7 +1,7 @@
 # Matching Card Game
 Project scope: Design a functional web application to play a 5 pair matching game.
  
- ![ screenshot of application]https://github.com/FullStackAbbs/MatchingCardGame/blob/master/images/screenshot.png
+ ![ screenshot of application] "https://github.com/FullStackAbbs/MatchingCardGame/blob/master/images/screenshot.png"
 
 # Tech used: HTML, CSS, JavaScript
 
