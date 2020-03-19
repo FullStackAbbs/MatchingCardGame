@@ -1,22 +1,17 @@
-# ♠️ Week08 Bootcamp2019a Project: Matching Card Game
+# Matching Card Game
+Project scope: Design a functional web application to play a 5 pair matching game.
+ 
+ ![ screenshot of application]https://github.com/FullStackAbbs/MatchingCardGame/blob/master/images/screenshot.png
 
-### Goal: Make a 10 card memory game - users must be able to select two cards and check if they are a match. If they are a match, they stay flipped. If not, they flip back over. Game is done when all cards are matched and flipped over. Example: http://www.fruit-burst.co.uk/fun-and-games/pairs-game 
+# Tech used: HTML, CSS, JavaScript
 
-### How to submit your code for review:
+# Optimizations 
+Optimization for this game would include a timer and leaderboard for information to be stored using databases, as a tradeoff the randomzation of image source locations would be intteresting. 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+# Lesson Learned:
+* The manipulation of DOM elements
+* Object Orientated Programming
+* Event Delegation
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Link
+https://eager-beaver-fb0745.netlify.com/
